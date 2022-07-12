@@ -1,0 +1,10 @@
+POST http://localhost:8888/product
+Content-Type: application/json
+
+{
+"name": "Gula Aren",
+"price": 5000,
+"category": "food"
+}
+
+###
